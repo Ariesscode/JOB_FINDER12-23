@@ -1,4 +1,7 @@
 # JobFinder
+Github: https://github.com/Ariesscode/JOB_FINDER12-23
+Collaborated Github: https://github.com/newprice247/Jobfinder
+Heroku deployed: https://project3mernstack-c25ab63e2028.herokuapp.com/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
